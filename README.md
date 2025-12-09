@@ -56,7 +56,7 @@ Each project contains full documentation, diagrams, screenshots, and explanation
 <p align="center"><i>Figure: Logical network topology with VLAN and firewall enforcement</i></p>
 
 - Proxmox + ESXi virtualization hosts  
-- Segmented VLAN design (IT / HR / Services / Management)  
+- Segmented VLAN design (IT / HR / Services / Management / Testing)  
 - OPNsense as security gateway and routing core  
 - Windows Servers + Linux services + GPU workloads  
 - Central Icinga monitoring for visibility  
