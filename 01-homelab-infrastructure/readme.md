@@ -140,10 +140,10 @@ Monitoring coverage:
 
 ## Related Projects
 
-🔹 **Enterprise Infrastructure Lab** → `../02-enterprise-infrastructure`  
-🔹 **Monitoring (Icinga)** → `../03-monitoring`  
-🔹 **Nextcloud Hosting** → `../05-nextcloud-server`  
-🔹 **AI Inference Server** → `../04-ai-inference-server`  
+🔹 [02-enterprise-infrastructure](https://github.com/Hikko218/homelab-portfolio/tree/main/02-enterprise-infrastructure) 
+🔹 [03-monitoring](https://github.com/Hikko218/homelab-portfolio/tree/main/03-monitoring) 
+🔹 [04-ai-inference-server](https://github.com/Hikko218/homelab-portfolio/tree/main/04-ai-inference-server)  
+🔹 [05-nextcloud-server](https://github.com/Hikko218/homelab-portfolio/tree/main/05-nextcloud-server) 
 
 ---
 
