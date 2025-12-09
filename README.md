@@ -50,7 +50,10 @@ Each project contains full documentation, diagrams, screenshots, and explanation
 
 > *Virtualized multi-VLAN enterprise network with centralized identity and monitoring*
 
-(Planned: architecture diagram in draw.io format.)
+<p align="center">
+<img src="./architecture/architecture_01.png" width="850">
+</p>
+<p align="center"><i>Figure: Logical network topology with VLAN and firewall enforcement</i></p>
 
 - Proxmox + ESXi virtualization hosts  
 - Segmented VLAN design (IT / HR / Services / Management)  
