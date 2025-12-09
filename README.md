@@ -75,7 +75,7 @@ Foundation for all services: hardware, virtualization, VLAN segmentation, routin
 - IPMI integration  
 
 **Project Documentation:**  
-`./01-homelab-infrastructure`
+[01-homelab-infrastructure](https://github.com/Hikko218/homelab-portfolio/tree/main/01-homelab-infrastructure)
 
 ---
 
@@ -91,7 +91,7 @@ Realistic SMB/enterprise environment with identity, file services, update manage
 - Firewall policies separating IT and HR clients  
 
 **Project Documentation:**  
-`./02-enterprise-infrastructure`
+[02-enterprise-infrastructure](https://github.com/Hikko218/homelab-portfolio/tree/main/02-enterprise-infrastructure)
 
 ---
 
@@ -106,7 +106,7 @@ Icinga deployment for full infrastructure visibility across servers, clients, an
 - Monitoring across VLANs  
 
 **Project Documentation:**  
-`./03-monitoring`
+[03-monitoring](https://github.com/Hikko218/homelab-portfolio/tree/main/03-monitoring)
 
 ---
 
@@ -121,7 +121,7 @@ GPU-powered Ubuntu machine for LLM workloads and future automation projects.
 - Testing LLM inference locally  
 
 **Project Documentation:**  
-`./04-ai-inference-server`
+[04-ai-inference-server](https://github.com/Hikko218/homelab-portfolio/tree/main/04-ai-inference-server)
 
 ---
 
@@ -137,7 +137,7 @@ Private cloud solution with local authentication and secure access inside the Ho
 - File sync and collaboration  
 
 **Project Documentation:**  
-`./05-nextcloud-server`
+[05-nextcloud-server](https://github.com/Hikko218/homelab-portfolio/tree/main/05-nextcloud-server)
 
 ---
 
