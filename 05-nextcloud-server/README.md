@@ -101,10 +101,10 @@ It enables:
 
 ## Related Projects
 
-🔹 **HomeLab Infrastructure** → `../01-homelab-infrastructure`  
-🔹 **Enterprise Infrastructure** → `../02-enterprise-infrastructure`  
-🔹 **Monitoring (Icinga)** → `../03-monitoring`  
-🔹 **AI Inference Server** → `../04-ai-inference-server`
+- [01-homelab-infrastructure](https://github.com/Hikko218/homelab-portfolio/tree/main/01-homelab-infrastructure)
+- [02-enterprise-infrastructure](https://github.com/Hikko218/homelab-portfolio/tree/main/02-enterprise-infrastructure) 
+- [03-monitoring](https://github.com/Hikko218/homelab-portfolio/tree/main/03-monitoring) 
+- [04-ai-inference-server](https://github.com/Hikko218/homelab-portfolio/tree/main/04-ai-inference-server)  
 
 ---
 
