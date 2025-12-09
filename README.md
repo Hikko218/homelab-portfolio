@@ -51,7 +51,7 @@ Each project contains full documentation, diagrams, screenshots, and explanation
 > *Virtualized multi-VLAN enterprise network with centralized identity and monitoring*
 
 <p align="center">
-<img src="./architecture/architecture_01.png" width="850">
+<img src="./00-architecture/architecture_01.png" width="850">
 </p>
 <p align="center"><i>Figure: Logical network topology with VLAN and firewall enforcement</i></p>
 
