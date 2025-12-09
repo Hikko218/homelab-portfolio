@@ -32,14 +32,15 @@ Each project contains full documentation, diagrams, screenshots, and explanation
 
 ## Skills & Focus Areas
 
-| Category | Topics | Experience Level |
+| Category | Topics | Focus |
 |--------|--------|:--:|
 | **Windows Infrastructure** | AD DS, GPO, WSUS, DNS, DHCP, Hybrid Identities | ⭐⭐⭐⭐ |
 | **Networking & Security** | VLANs, Routing, Firewall Rules, VPN | ⭐⭐⭐⭐⭐ |
 | **Virtualization** | Proxmox, VMware ESXi | ⭐⭐⭐⭐ |
 | **Linux Server Administration** | Ubuntu Server, Apache, MariaDB | ⭐⭐⭐ |
 | **Monitoring & IT Ops** | Icinga 2 + Web 2, Service Checks, Alerting | ⭐⭐⭐ |
-| **Cloud Integration** | Microsoft Entra ID, SSO Concepts | ⭐⭐⭐ |
+| **Cloud Integration** | Microsoft Entra ID, SSO Concepts | ⭐⭐ |
+| **AI & Automation** | Docker-based LLM inference (Ollama, Open WebUI), Containerization | ⭐⭐⭐ |
 
 > Network architecture and segmentation are my strongest focus and passion areas.
 
